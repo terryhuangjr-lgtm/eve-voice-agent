@@ -37,7 +37,7 @@ Eve answers every call, every time — 24/7/365. She handles the full intake con
 | **Customizable Script** | Adjustable tone, questions, and responses per business |
 | **Real-time Transcription** | Full call transcript logged for review and quality assurance |
 
-## 🧱 Architecture
+## 🧱 Architecturenn![Architecture Diagram](docs/architecture.svg)
 
 ```
 ┌──────────┐     ┌───────────┐     ┌──────────────┐
